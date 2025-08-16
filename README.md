@@ -61,7 +61,3 @@ The project fetches real-time **5-day weather forecast data** from the OpenWeath
   * Wind speed, pressure, etc.
   * Comparison between multiple cities.
   * Saving plots as images or interactive dashboards.
-
-
-
-Do you want me to create a **concise project report** (like abstract, objectives, scope, limitations, conclusion) based on this code?
